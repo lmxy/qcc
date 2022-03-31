@@ -1,2 +1,3 @@
 # qcc
 python scrapy
+刚开始学，各种不懂……
